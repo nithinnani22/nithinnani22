@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm Nithin 👋
 
-<!--
-**nithinnani22/nithinnani22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer — I build and ship real products with React & Node.js.
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### StrikerX — AI Automation Agency Website
+
+A responsive, multi-page marketing site with a custom video hero, a lead-capture flow
+(stores submissions with timestamps + redirects enquiries to WhatsApp), a
+password-protected admin dashboard, and a full SEO layer (meta, Open Graph, JSON-LD,
+sitemap, robots).
+
+**Tech:** React · Node.js · Express · Vite · Vercel
+
+🔗 Live: https://client-sage-three.vercel.app  ·  💻 Code: https://github.com/nithinnani22/strikerx-website
+
+## 🛠️ Skills
+
+React · JavaScript · Node.js · Express · HTML/CSS · Responsive Design · REST APIs · Git · Vercel · SEO
+
+## 📫 Reach me
+
+- Email: (I'll fill this in)
+- LinkedIn: (I'll fill this in)
