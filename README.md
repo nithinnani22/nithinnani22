@@ -21,5 +21,5 @@ React · JavaScript · Node.js · Express · HTML/CSS · Responsive Design · RE
 
 ## 📫 Reach me
 
-- Email: (I'll fill this in)
-- LinkedIn: (I'll fill this in)
+- 📧 Email: [manikyalanithin@gmail.com](mailto:manikyalanithin@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/manikyalanithin](https://www.linkedin.com/in/manikyalanithin)
